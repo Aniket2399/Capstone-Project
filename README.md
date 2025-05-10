@@ -129,7 +129,7 @@ useEffect(() => {
 
 ## 👨‍💻 Contributors
 
-* **Aniket Kshirsagar** – [LinkedIn](https://www.linkedin.com/in/aniket-kshirsagar/)
+* **Aniket Kshirsagar** – [LinkedIn](https://www.linkedin.com/in/aniketk99/)
 * **Jegan Nadar**
 * **Manihas Reddy**
 * **Pavankumar Sakhireddy**
